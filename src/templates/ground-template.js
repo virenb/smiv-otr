@@ -6,7 +6,8 @@ import Layout from '../components/layout';
 const Ground = ({ data }) => {
 	return (
 		<Layout>
-			<div>{data.otrJson.ground}</div>
+			<h1>{data.otrJson.team}</h1>
+			<h2>{data.otrJson.ground}</h2>
 		</Layout>
 	);
 };
