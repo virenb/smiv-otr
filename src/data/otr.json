@@ -1,4 +1,5 @@
 [{
+  "slug": "grays-athletic-mill-field",
   "id": "00001",
   "url": "https://www.youtube.com/watch?v=-FdDdg63dXs",
   "team": "Grays Athletic",
@@ -16,6 +17,7 @@
   }
 },
 {
+    "slug": "tottenham-wembley-stadium",
     "id": "00002",
     "url": "https://www.youtube.com/watch?v=2YaQX5nC1DI",
     "team": "Tottenham Hotspur FC",
