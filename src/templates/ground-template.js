@@ -2,10 +2,12 @@ import React from 'react';
 import { graphql } from 'gatsby';
 
 import Layout from '../components/layout';
+import SEO from '../components/seo';
 
 const Ground = ({ data }) => {
 	return (
 		<Layout>
+			<SEO title={data.otrJson.ground} />
 			<header>
 				<h1>
 					{data.otrJson.team} - {data.otrJson.ground}
