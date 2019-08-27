@@ -20,14 +20,14 @@ const IndexPage = () => {
 	`);
 	return (
 		<Layout>
-			<SEO title="Home" />
+			<SEO />
 			<div>
 				<ul>
 					{data.allOtrJson.edges.map((x) => {
 						return (
 							<li key={x.node.slug}>
 								<Link to={x.node.slug}>
-									{x.node.team} - <span>{x.node.ground}</span>
+									{x.node.team} - {x.node.ground}
 								</Link>
 							</li>
 						);

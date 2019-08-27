@@ -510,6 +510,7 @@ th {
 }
 li {
   margin-bottom: calc(1.45rem / 2);
+  list-style: none;
 }
 ol li {
   padding-left: 0;
@@ -619,4 +620,8 @@ pre tt:after {
   html {
     font-size: 100%;
   }
+}
+
+span {
+  font-size: 1.4rem;
 }
