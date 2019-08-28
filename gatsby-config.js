@@ -1,6 +1,6 @@
 module.exports = {
 	siteMetadata: {
-		title: `On The Road`,
+		title: `SMIV'S ON THE ROAD`,
 		description: `A website for the On The Road series, created by Smiv`,
 		author: `@virengb`
 	},
@@ -13,13 +13,6 @@ module.exports = {
 			}
 		},
 		`gatsby-plugin-react-helmet`,
-		{
-			resolve: `gatsby-source-filesystem`,
-			options: {
-				name: `images`,
-				path: `${__dirname}/src/images`
-			}
-		},
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-sharp`,
 		{
@@ -30,8 +23,19 @@ module.exports = {
 				start_url: `/`,
 				background_color: `#663399`,
 				theme_color: `#663399`,
-				display: `minimal-ui`,
-				icon: `src/images/gatsby-icon.png` // This path is relative to the root of the site.
+				display: `minimal-ui`
+			}
+		},
+		{
+			resolve: `gatsby-plugin-prefetch-google-fonts`,
+			options: {
+				fonts: [
+					{
+						family: `Poppins`,
+						subsets: [ `latin` ],
+						variants: [ `400`, `700i`, `800i` ]
+					}
+				]
 			}
 		}
 	]

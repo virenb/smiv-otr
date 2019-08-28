@@ -24,8 +24,11 @@ const Header = ({ siteTitle }) => (
 					to="/"
 					style={{
 						textDecoration: `none`,
-						backgroundColor: 'pink',
-						padding: '0 0.5rem'
+						backgroundColor: 'lightgray',
+						color: 'black',
+						padding: '0 0.5rem',
+						fontFamily: 'Poppins',
+						fontStyle: 'italic'
 					}}
 				>
 					{siteTitle}
