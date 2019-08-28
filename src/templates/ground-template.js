@@ -8,7 +8,7 @@ const Ground = ({ data }) => {
 	return (
 		<Layout>
 			<SEO title={data.otrJson.ground} />
-			<header>
+			<header style={{fontStyle: 'italic'}}>
 				<h1>
 					{data.otrJson.team} - {data.otrJson.ground}
 				</h1>
@@ -18,7 +18,7 @@ const Ground = ({ data }) => {
 					Match: {data.otrJson.team} vs. {data.otrJson.opponent}
 				</p>
 				<p>
-					League: {data.otrJson.league} (Tier: {data.otrJson.tier})
+					League/Competition: {data.otrJson.league} (Tier: {data.otrJson.tier})
 				</p>
 			</section>
 			<section>
@@ -29,8 +29,8 @@ const Ground = ({ data }) => {
 					</a>
 				</p>
 			</section>
-			<section>
-				<h4>Smiv's Ratings</h4>
+			<section style={{fontStyle: 'italic'}}>
+				<h3>SMIV'S RATINGS</h3>
 				<ul>
 					<li>
 						<span role="img" aria-label="loudspeaker">
