@@ -1,22 +1,23 @@
-[{
-  "slug": "grays-athletic-mill-field",
-  "id": "00001",
-  "url": "https://www.youtube.com/watch?v=-FdDdg63dXs",
-  "team": "Grays Athletic",
-  "ground": "Mill Field",
-  "opponent": "Billericay Town",
-  "league": "Isthmian League Premier Division",
-  "tier": "7th",
-  "season": "2016-2017",
-  "ratings": {
-    "Atmosphere": 2,
-    "Facilities": 2,
-    "Food & Drink": 2.5,
-    "Cost": 5,
-    "Total": "11.5/20"
-  }
-},
-{
+[
+  {
+    "slug": "grays-athletic-mill-field",
+    "id": "00001",
+    "url": "https://www.youtube.com/watch?v=-FdDdg63dXs",
+    "team": "Grays Athletic",
+    "ground": "Mill Field",
+    "opponent": "Billericay Town",
+    "league": "Isthmian League Premier Division",
+    "tier": "7th",
+    "season": "2016-2017",
+    "ratings": {
+      "Atmosphere": 2,
+      "Facilities": 2,
+      "Food & Drink": 2.5,
+      "Cost": 5,
+      "Total": "11.5/20"
+    }
+  },
+  {
     "slug": "tottenham-wembley-stadium",
     "id": "00002",
     "url": "https://www.youtube.com/watch?v=2YaQX5nC1DI",
@@ -34,7 +35,7 @@
       "Total": "14/20"
     }
   },
-    {
+  {
     "slug": "witham-town-spa-road",
     "id": "00003",
     "url": "https://www.youtube.com/watch?v=34eFlEu9-zw",
@@ -122,7 +123,7 @@
       "Food & Drink": 2,
       "Cost": 3,
       "Total": "11.5/20"
-    }    
+    }
   },
   {
     "slug": "dartford-princes-park",
@@ -140,7 +141,7 @@
       "Food & Drink": 4,
       "Cost": 5,
       "Total": "17/20"
-    }      
+    }
   },
   {
     "slug": "leyton-orient-brisbane-road",
@@ -158,7 +159,7 @@
       "Food & Drink": 2.5,
       "Cost": 4,
       "Total": "15.5/20"
-    }      
+    }
   },
   {
     "slug": "colchester-united-community-stadium",
@@ -176,7 +177,7 @@
       "Food & Drink": 3,
       "Cost": 4,
       "Total": "15.5/20"
-    }      
+    }
   },
   {
     "slug": "luton-town-kenilworth-road",
@@ -194,8 +195,8 @@
       "Food & Drink": 4,
       "Cost": 4.5,
       "Total": "15.5/20"
-    }      
-  },  
+    }
+  },
   {
     "slug": "notts-county-meadow-lane",
     "id": "00012",
@@ -285,7 +286,7 @@
       "Cost": 2.5,
       "Total": "10.5/20"
     }
-  },  
+  },
   {
     "slug": "chelsea-stamford-bridge",
     "id": "00017",
@@ -321,6 +322,131 @@
       "Cost": 4,
       "Total": "13/20"
     }
-  } 
-    
+  },
+  {
+    "slug": "aveley-fc-parkside",
+    "id": "00018",
+    "url": "https://youtube.com/watch?v=BnhAZvTEb0Y",
+    "team": "Aveley FC",
+    "ground": "Parkside",
+    "opponent": "Hertford Town",
+    "league": "Bostik Football League North Division",
+    "tier": "8th",
+    "season": "2017-2018",
+    "ratings": {
+      "Atmosphere": 1,
+      "Facilities": 4.5,
+      "Food & Drink": 3.5,
+      "Cost": 4,
+      "Total": "13/20"
+    }
+  },
+  {
+    "slug": "leatherhead-fc-fetcham-grove",
+    "id": "00019",
+    "url": "https://www.youtube.com/watch?v=Ilem7z9A0VA",
+    "team": "Leatherhead FC",
+    "ground": "Fetcham Grove",
+    "opponent": "Kingstonian",
+    "league": "Isthmian League Premier Division",
+    "tier": "7th",
+    "season": "2017-2018",
+    "ratings": {
+      "Atmosphere": 1,
+      "Facilities": 2,
+      "Food & Drink": 3,
+      "Cost": 4.5,
+      "Total": "10.5/20"
+    }
+  },
+  {
+    "slug": "reading-fc-madejski",
+    "id": "00020",
+    "url": "https://www.youtube.com/watch?v=_3oGXG8z3Es",
+    "team": "Reading FC",
+    "ground": "Madejski Stadium",
+    "opponent": "Birmingham City",
+    "league": "English Championship",
+    "tier": "2nd",
+    "season": "2017-2018",
+    "ratings": {
+      "Atmosphere": 2,
+      "Facilities": 3.5,
+      "Food & Drink": 5,
+      "Cost": 2,
+      "Total": "12.5/20"
+    }
+  },
+  {
+    "slug": "afc-hornchurch-hornchurch",
+    "id": "00021",
+    "url": "https://www.youtube.com/watch?v=c5O4OXoRF5w",
+    "team": "AFC Hornchuch",
+    "ground": "Hornchuch Stadium",
+    "opponent": "Barking",
+    "league": "Bostik Football League North Division",
+    "tier": "8th",
+    "season": "2017-2018",
+    "ratings": {
+      "Atmosphere": 1,
+      "Facilities": 2,
+      "Food & Drink": 3.5,
+      "Cost": 5,
+      "Total": "11.5/20"
+    }
+  },
+  {
+    "slug": "newport-rodney-parade",
+    "id": "00022",
+    "url": "https://www.youtube.com/watch?v=OPfldL8a_l4",
+    "team": "Newport County",
+    "ground": "Rodney Parade",
+    "opponent": "Tottenham Hotspur",
+    "league": "FA Cup",
+    "tier": "4th Round",
+    "season": "2017-2018",
+    "ratings": {
+      "Atmosphere": 4,
+      "Facilities": 2.5,
+      "Food & Drink": 2,
+      "Cost": 3,
+      "Total": "11.5/20"
+    }
+  },
+  {
+    "slug": "cardiff-city-stadium",
+    "id": "00023",
+    "url": "https://www.youtube.com/watch?v=alLOsIaybW4",
+    "team": "Cardiff City",
+    "ground": "Cardiff City Stadium",
+    "opponent": "Manchester City",
+    "league": "FA Cup",
+    "tier": "4th Round",
+    "season": "2017-2018",
+    "ratings": {
+      "Atmosphere": 4.5,
+      "Facilities": 3.5,
+      "Food & Drink": 3,
+      "Cost": 3,
+      "Total": "14/20"
+    }
+  },
+  {
+    "slug": "brentford-griffin-park",
+    "id": "00024",
+    "url": "https://www.youtube.com/watch?v=10ZB4LHhlXI",
+    "team": "Brentford FC",
+    "ground": "Griffin Park",
+    "opponent": "Birmingham City",
+    "league": "English Championship",
+    "tier": "2nd",
+    "season": "2017-2018",
+    "ratings": {
+      "Atmosphere": 2.5,
+      "Facilities": 3.5,
+      "Food & Drink": 3.5,
+      "Cost": 4.5,
+      "Total": "14/20"
+    }
+  }
 ]
